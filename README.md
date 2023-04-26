@@ -1,4 +1,5 @@
-# rust-meetup
+# Rust Vienna Meetup
+## Topic: Serverless functions
 
 ## Slides
 
