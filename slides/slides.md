@@ -37,7 +37,6 @@ Hobbies:
 
 <img src="pizza.png" class="h-50 rounded shadow" />
 
-
 - Working at
 
 <img src="george.png" class="h-30 rounded shadow" />
@@ -54,9 +53,34 @@ Hobbies:
 
 - Not `No servers`
 
-> Serverless computing is a method of providing backend services on an as-used basis. Servers are still used, but a company that gets backend services from a serverless vendor is charged based on usage, not a fixed amount of bandwidth or number of servers. - Cloudflare
+- > Serverless computing is a method of providing backend services on an as-used basis. Servers are still used, but a company that gets backend services from a serverless vendor is charged based on usage, not a fixed amount of bandwidth or number of servers. - Cloudflare
+
+- Summary: Pay what you use and don't care about servers
 
 </v-clicks>
+
+---
+
+# Free stuff
+
+<v-clicks>
+
+- Services that are freely available
+- Good for hobby projects to experiment
+- (some) can also be used in production later
+
+</v-clicks>
+
+---
+layout: cover
+background: demo-gods.png
+---
+
+---
+layout: fact
+---
+
+# Live demos
 
 ---
 
@@ -239,8 +263,10 @@ layout: center
 
 <v-clicks>
 
-- Just needs a docker image (can run anything)
+- Runs on any Kubernetes
 - Only one small kubernetes yaml
+- Just needs a docker image (can run anything)
+- Shuts down pods when not used
 
 </v-clicks>
 
@@ -251,11 +277,10 @@ layout: center
 
 - Needs warmup (>1 second)
 - Long startup with function calling another
-- Setup is a bit harder compared to others
+- Most complex setup compared to others
 - Dockerfile
 
 </v-clicks>
-
 
 ---
 
