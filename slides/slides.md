@@ -251,6 +251,22 @@ oha https://worker-rust.lampe.workers.dev -n 2000
 ```
 
 ---
+background: iceberg.png
+---
+
+# Just the tip of the ice berg
+
+<v-clicks>
+
+- Vercel
+- Netlify
+- Google Cloud Functions
+- and many more...
+- For more inspiration see http://freestuff.dev
+
+</v-clicks>
+
+---
 layout: center
 ---
 
