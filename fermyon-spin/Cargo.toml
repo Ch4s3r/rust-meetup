@@ -15,7 +15,6 @@ anyhow = "1"
 bytes = "1"
 # General-purpose crate with common HTTP types.
 http = "0.2"
-reqwest = { version = "0.11.16", features = ["blocking", "json"] }
 # The Spin SDK.
 spin-sdk = { git = "https://github.com/fermyon/spin", tag = "v1.0.0" }
 # Crate that generates Rust Wasm bindings from a WebAssembly interface.
